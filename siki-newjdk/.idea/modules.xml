@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.siki.demo/com.siki.demo.iml" filepath="$PROJECT_DIR$/com.siki.demo/com.siki.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.siki.helloworld/com.siki.helloworld.iml" filepath="$PROJECT_DIR$/com.siki.helloworld/com.siki.helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siki-newjdk.iml" filepath="$PROJECT_DIR$/siki-newjdk.iml" />
+    </modules>
+  </component>
+</project>
